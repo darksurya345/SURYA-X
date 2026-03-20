@@ -99,7 +99,7 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF SURYA-X 
-- [Lord surya ](https://github.com/darksurya345)
+- [surya WP](https://github.com/darksurya345)
 - Creater and Owner Of SURYA-X 
 
 > SURYA-X Helper
