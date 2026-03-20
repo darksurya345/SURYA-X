@@ -99,11 +99,11 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF SURYA-X 
-- [surya WP](https://github.com/darksurya345)
+- [SURYA WP](https://wa.me/917797099719)
 - Creater and Owner Of SURYA-X 
 
-> SURYA-X Helper
-- [Lord surya](https://github.com/darksurya345)
+> SURYA-X SUPPORT 
+- [SURYA](https://t.me/@DARKSURYA_345)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
