@@ -8,7 +8,7 @@
  * @project_name : Free Bot script
  * @author : Malvin King <https://github.com/darksr789>
  * @description : A Multi-functional whatsapp bot script.
- * @version 3.0.0
+ * @version 9.0.0
  **/
 
 
