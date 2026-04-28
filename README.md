@@ -27,8 +27,6 @@
 
 <!-- GLOWING MAIN BADGE -->
 
-<img src="https://img.shields.io/badge/☠️_SURYA_X_EDITION-FF0000?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000&animation=pulse" alt="SURYA-X" />
-
 <p align="center">
   <a href="https://github.com/darksurya345/SURYA-X/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/📥_DOWNLOAD_FILE-00FFFF?style=for-the-badge&logo=github&logoColor=black" height="45" alt="Download">
