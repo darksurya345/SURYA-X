@@ -177,10 +177,22 @@
     </td>
     
   <td>
-      <a href="COMING SOON">
-        <img src="https://img.shields.io/badge/😎_GET_PAIRING_V2-FF00FF?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="300"/>
-      </a>
-    </td>
+      <a href="LINK_HERE" style="
+    text-decoration: none;
+    background: linear-gradient(45deg, #ff00cc, #3333ff);
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px;
+    box-shadow: 0 0 15px rgba(255, 0, 204, 0.5);
+    font-family: 'Courier New', monospace;
+">
+    🔥 GET PAIRING V3
+</a>
+
+  </td>
   </tr>
 </table>
 
