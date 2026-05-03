@@ -18,12 +18,10 @@
 ---
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center">
-<img src="https://github.com/darksurya345/SURYA-X/blob/main/name.svg" width="400" alt="SURYA-X Logo"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FBFF&center=true&vCenter=true&width=435&lines=S+U+R+Y+A+-+X+M+D;OFFICIAL+WHATSAPP+BOT;DEVELOPED+BY+SURYA" alt="Typing SVG" />
+</p>
 
-</h1>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center">
 
 <!-- GLOWING MAIN BADGE -->
 
