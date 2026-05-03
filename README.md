@@ -171,7 +171,7 @@
       </a>
     </td>
     <td>
-      <a href="ion-site.onrender.com">
+      <a href="https://surya-session-production.up.railway.app/)">
         <img src="https://img.shields.io/badge/🇮🇳_GET_PAIRING_V2-FF00FF?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="300"/>
       </a>
     </td>
