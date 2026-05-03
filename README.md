@@ -177,25 +177,8 @@
     </td>
     
   <td>
-      <a href="LINK_HERE" style="
-    text-decoration: none;
-    background: linear-gradient(45deg, #ff00cc, #3333ff);
-    color: white;
-    padding: 12px 20px;
-    border-radius: 8px;
-    font-weight: bold;
-    display: inline-block;
-    margin-top: 10px;
-    box-shadow: 0 0 15px rgba(255, 0, 204, 0.5);
-    font-family: 'Courier New', monospace;
-">
-    🔥 GET PAIRING V3
-</a>
-
-  </td>
-  </tr>
-</table>
-
+      <a href="YOUR_LINK_V3"><img src="https://img.shields.io/badge/🔥%20GET%20PAIRING%20V3-blue?style=for-the-badge&logo=appveyor" /></a>
+  </p>
 </div>
 
 ---
