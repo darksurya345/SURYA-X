@@ -163,20 +163,28 @@
 
 <!-- SESSION BUTTONS -->
 
-<table>
-  <tr>
-    <td>
-      <a href="https://surya-pairing-site0.onrender.com">
-        <img src="https://img.shields.io/badge/🔑_GET_PAIRING_V1-FF00FF?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="300"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://surya-session-production.up.railway.app">
-        <img src="https://img.shields.io/badge/🇮🇳_GET_PAIRING_V2-FF00FF?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="300"/>
-      </a>
-    </td>
-     <td>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://surya-pairing-site0.onrender.com">
+          <img src="https://img.shields.io/badge/🔑_GET_PAIRING_V1-FF00FF?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="220"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://surya-session-production.up.railway.app">
+          <img src="https://img.shields.io/badge/🇮🇳_GET_PAIRING_V2-FF00FF?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="220"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  <a href="LINK_FOR_V3_HERE">
+    <img src="https://img.shields.io/badge/🚀_GET_PAIRING_V3-00FBFF?style=for-the-badge&logo=speedtest&logoColor=black&labelColor=000000" width="450"/>
+  </a>
 </div>
+
 
 ---
 
