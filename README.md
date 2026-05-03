@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/darksurya345/SURYA-X/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/📥_DOWNLOAD_FILE-00FFFF?style=for-the-badge&logo=github&logoColor=black" width="200" height="70">
+    <img src="https://img.shields.io/badge/📥_DOWNLOAD_FILE-00FFFF?style=for-the-badge&logo=github&logoColor=black" width="200" height="50">
   </a>
 </p>
 
