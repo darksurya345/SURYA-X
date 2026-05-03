@@ -18,16 +18,19 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FBFF&height=60&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FBFF&height=100&section=header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FBFF&center=true&vCenter=true&width=435&lines=S+U+R+Y+A+-+X+M+D+🧬;NEXT+GEN+WHATSAPP+BOT;POWERED+BY+NODEJS" alt="Typing SVG" />
+  <a href="https://github.com/darksurya345">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FBFF&center=true&vCenter=true&width=600&lines=S+U+R+Y+A+-+X+🧬;DEVELOPED+BY+DARK+SURYA+🇮🇳;THE+ULTIMATE+WHATSAPP+BOT" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FBFF&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FBFF&height=100&section=footer" width="100%" />
 </p>
+
 
 
 
