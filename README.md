@@ -181,7 +181,7 @@
 
   <br>
   <a href="LINK_FOR_V3_HERE">
-    <img src="https://img.shields.io/badge/🚀_GET_PAIRING_V3-00FBFF?style=for-the-badge&logo=speedtest&logoColor=black&labelColor=000000" width="450"/>
+    <img src="https://img.shields.io/badge/🚀_GET_PAIRING_V3_!NEW-FFFF00?style=for-the-badge&logo=speedtest&logoColor=000000&labelColor=000000" width="300"/>
   </a>
 </div>
 
