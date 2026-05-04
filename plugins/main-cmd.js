@@ -239,7 +239,7 @@ menu[commands[i].category] += `*│*❯❯◦ ${commands[i].pattern}\n`;
  }
 }
 
-let madeMenu = `🤩 *HELLOW* *${pushname}*
+let madeMenu = `🤩 *HELLO* *${pushname}*
 > WELLCOME TO SURYA-X 🪀
 
 ╭─「 ꜱᴛᴀᴛᴜꜱ ᴅᴇᴛᴀɪʟꜱ 」
@@ -314,7 +314,7 @@ cmd({
 async (conn, mek, m, { from, pushname, reply, contextInfo }) => {
     try {
         let desc = `
-🤩 *HELLOW* *${pushname}*
+🤩 *HELLO* *${pushname}*
 > WELLCOME TO SURYA-X 🪀
 
 ╭─「 ꜱᴛᴀᴛᴜꜱ ᴅᴇᴛᴀɪʟꜱ 」
