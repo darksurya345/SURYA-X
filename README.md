@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&weight=700&pause=1000&color=00FBFF&center=true&vCenter=true&width=800&lines=SURYA-X+🧬;DARK+SURYA+🇮🇳;DEVELOPED+BY+DARK+SURYA+🇮🇳" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&weight=700&pause=1000&color=00FBFF&center=true&vCenter=true&width=800&lines=SURYA-X+🧬;DARK+SURYA+🇮🇳;DEVELOPED+BY+DARK+SURYA" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -186,7 +186,7 @@
   </table>
 
   <br>
-  <a href="LINK_FOR_V3_HERE">
+  <a href="https://darksurya.indevs.in">
     <img src="https://img.shields.io/badge/🚀_GET_PAIRING_V3_!NEW-FFFF00?style=for-the-badge&logo=speedtest&logoColor=000000&labelColor=000000" width="300"/>
   </a>
 </div>
