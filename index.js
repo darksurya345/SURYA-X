@@ -249,7 +249,9 @@ async function connectToWA() {
       
       try {
         // Send to owner with image
-        sock.sendMessage(ownerNumber[0] + '917797099719@s.whatsapp.net', {
+        const botJid = sock.user.id.split(":")[0] + "@s.whatsapp.net";
+sock.sendMessage(botJid, { ... });
+        
           image: { url: imageUrl },
           caption: aliveMsg
         }).catch(() => {
