@@ -38,11 +38,11 @@ function loadLocalFiles() {
     console.log(`🔌 Found ${pluginFiles.length} plugin files`);
   }
   
-  // Check for arslan.html
-  if (fs.existsSync('./lib/arslan.html')) {
-    console.log("✅ arslan.html found in lib folder");
+  // Check for surya.html
+  if (fs.existsSync('./lib/surya.html')) {
+    console.log("✅ surya.html found in lib folder");
   } else {
-    console.log("⚠️ arslan.html not found in lib folder");
+    console.log("⚠️ surya.html not found in lib folder");
   }
   
   console.log("✅ Local files loaded successfully!");
@@ -120,7 +120,7 @@ const port = process.env.PORT || 9090;
 
 // Serve HTML page
 app.get('/', (req, res) => {
-  const htmlPath = path.join(__dirname, 'lib', 'arslan.html');
+  const htmlPath = path.join(__dirname, 'lib', 'surya.html');
   if (fs.existsSync(htmlPath)) {
     res.sendFile(htmlPath);
   } else {
@@ -149,7 +149,7 @@ app.get('/', (req, res) => {
   }
 });
 
-app.get('/lib/arslan.html', (req, res) => {
+app.get('/lib/surya.html', (req, res) => {
   res.redirect('/');
 });
 
