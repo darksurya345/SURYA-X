@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif"/>
   <br>
-  <img src="https://files.catbox.moe/8ag0b8.png" width="800"/>
+  <img src="https://files.catbox.moe/gn8sxv.png" width="800"/>
   <br>
   <img src="https://i.imgur.com/LyHic3i.gif"/>
 </p>
