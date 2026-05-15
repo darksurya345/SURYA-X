@@ -161,7 +161,7 @@ async function getProfilePicture(sock, jid) {
     const ppUrl = await sock.profilePictureUrl(jid, 'image');
     return ppUrl;
   } catch {
-    return 'https://files.catbox.moe/jbrn0i.jpg'; // Default image
+    return 'https://files.catbox.moe/gn8sxv.png'; // Default image
   }
 }
 
@@ -245,7 +245,7 @@ async function connectToWA() {
       const aliveMsg = `*╭──────────────●●►*\n> *SURYA-X CONNECTED SUCCESSFULLY*\n\n> *Type ${prefix}menu to view commands*  \n\n*╭⊱✫ SURYA-X ✫⊱╮*\n*│✫📂 Bot Name: ${botConfig.BOT_NAME}*\n*│✫🛡️ Owner: ${config.OWNER_NAME}*\n*│✫♻️ Prefix: ${prefix}*\n*│✫🌍 Mode: ${config.MODE}*\n*│✫⏰ Uptime: ${runtime(process.uptime())}*\n*╰──────────────●●►*\n\n> Enjoy Using SURYA-X`;
       
       // Image URL for connection message
-      const imageUrl = 'https://files.catbox.moe/jbrn0i.jpg';
+      const imageUrl = 'https://files.catbox.moe/gn8sxv.png';
       
       try {
         // Send to owner with image
