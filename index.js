@@ -250,27 +250,18 @@ async function connectToWA() {
       try {
         // Send to owner with image
         const botJid = sock.user.id.split(":")[0] + "@s.whatsapp.net";
-sock.sendMessage(botJid, { ... });
-        
+        sock.sendMessage(botJid, {
           image: { url: imageUrl },
           caption: aliveMsg
         }).catch(() => {
-          // Fallback to text if image fails
-          sock.sendMessage(ownerNumber[0] + '@s.whatsapp.net', { text: aliveMsg });
+          sock.sendMessage(botJid, { text: aliveMsg });
         });
         
-        // Send to bot's own number
-        sock.sendMessage(sock.user.id, {
-          image: { url: imageUrl },
-          caption: aliveMsg
-        }).catch(() => {
-          sock.sendMessage(sock.user.id, { text: aliveMsg });
-        });
-        
-        console.log("✅ Connection message sent with image");
+        console.log("âœ… Connection message sent to bot's own number");
       } catch (err) {
-        console.log("⚠️ Could not send connection message with image, sending text only");
-        sock.sendMessage(ownerNumber[0] + '@s.whatsapp.net', { text: aliveMsg });
+        console.log("âš ï¸ Could not send connection message with image, sending text only");
+        const botJid = sock.user.id.split(":")[0] + "@s.whatsapp.net";
+        sock.sendMessage(botJid, { text: aliveMsg });
       }
     }
   });
